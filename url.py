@@ -17,8 +17,6 @@ class Url:
         
         return code
 
-url = Url()
-code = url.uniqueCode()
-print(code)
+
 
 
